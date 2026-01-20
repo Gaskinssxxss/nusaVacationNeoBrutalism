@@ -13,7 +13,7 @@
     "core-js": "^3.8.3",
     "vue": "^3.4.20",
     "vue-rate": "^3.1.1",
-    "vue-router": "^4.0.16",
+    "vue-router": "^4.3.0",
     "vue-toast-notification": "^3.0.4",
     "vue-writer": "^1.2.0",
     "vue3-marquee": "^4.2.0",
